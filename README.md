@@ -31,3 +31,6 @@ Shell app:
 ```
 npm start shell
 ```
+
+Sau đó truy cập vào các địa chỉ sau:
+<a href="http://localhost:5200/">Shell App: http://localhost:5200/</a>
