@@ -34,4 +34,11 @@ npm start shell
 
 Sau đó truy cập vào các địa chỉ sau:
 <br>
+
 <a href="http://localhost:5200/">Shell App: http://localhost:5200/</a>
+<br>
+
+<a href="http://localhost:5300/">Mailbox App: http://localhost:5300/</a>
+<br>
+
+<a href="http://localhost:5400/">Calendar App: http://localhost:5400/</a>
